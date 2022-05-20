@@ -1,0 +1,79 @@
+===============================================================
+
+          German Coarse-grained Opinion Role Lexicon
+
+===============================================================
+
+1.  Description of the Data
+
+The file
+
+coarse_grained_opinion_role_lexicon_verbs_german.txt
+
+contains a coarse-grained opinion role lexicon for German opinion verbs.
+
+It covers the verbs of the PolArt-sentiment lexicon (Klenner et al., 2009).
+The format is identical to the English coarse-grained lexicon. Therefore, more details regarding the format can be found in
+
+CoarseGrainedOpinionRoleLexicon/README
+
+Note that unlike the English coarse-grained lexicon, there is no German fine-grained counterpart for the coarse-grained version.
+Therefore, the German coarse-grained version was not automatically converted from a fine-grained lexicon but manually compiled (from scratch).
+For that annotation, German online-dictionaries were used, such as 
+ 
+www.duden.de
+www.dwds.de 
+
+On a subset of 400 randomly sampled verbs, a pairwise agreement of Cohen's Kappa of K=0.7 was measured. (This is agreement can be regarded as substantial.)
+
+
+-----------------------------------------------------------
+
+2. Usage/License
+
+This dataset is free to use for research purposes.
+If you use this dataset for your research, please acknowledge this
+source by citing Wiegand & Ruppenhofer (2015).
+
+If you intend to use this dataset for commercial purposes, please
+contact the owner of this resource (see Contact Information).
+
+
+-----------------------------------------------------------
+
+3. Acknowledgements
+
+This work was partially supported by the German Research Foundation
+(DFG) under grants RU 1873/2-1 and WI 4204/2-1.
+
+-----------------------------------------------------------
+
+4. Contact Information
+
+Please direct any questions that you have about this corpus or
+the annotation scheme to Michael Wiegand at Saarland University.
+
+Michael Wiegand	      email: Michael.Wiegand@lsv.uni-saarland.de
+
+-----------------------------------------------------------
+
+
+5.  Reference
+
+Michael Wiegand and Josef Ruppenhofer,
+  "Opinion Holder and Target Extraction based on the Induction
+   of Verbal Categories",
+  in Proceedings of the Conference on Computational Natural
+  Language Learning (CoNLL), 2015.
+
+
+-----------------------------------------------------------
+
+
+Michael Wiegand
+Josef Ruppenhofer
+Stephanie Koeser
+
+
+version 1.0
+last modified 06/21/15
